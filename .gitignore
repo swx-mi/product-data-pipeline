@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+*.db
+data/raw_products.json
+data/messy_products.json
+reports/*.csv
